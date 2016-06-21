@@ -1,0 +1,97 @@
+body, html {
+  width: 97%;
+}
+
+footer {
+  width: 97%;
+}
+
+h1, form {
+  direction: ltr;
+  text-align: center;
+  color: darkgreen;
+}
+.inputbox {
+  FONT-SIZE: 20px !important;
+  FONT-WEIGHT: unset !important;
+  FONT-FAMILY: 'Traditional Arabic' !important;
+  text-align: center;
+  height: 7vh;
+  width: 40vw;
+  direction: rtl;
+  color: darkgreen;
+}
+
+.inputbox:hover {
+  FONT-SIZE: 20px !important;
+  FONT-WEIGHT: unset !important;
+  FONT-FAMILY: 'Traditional Arabic' !important;
+  text-align: center;
+  height: 7vh;
+  width: 40vw;
+  direction: rtl;
+  color: green;
+}
+
+.submitbutton {
+  color: white;
+  background-color: darkgreen;
+  border: 0;
+  height: 8vh;
+  outline: 0;
+}
+
+.submitbutton:hover {
+  background-color: lightgreen;
+  color: black;
+  border: 0;
+  height: 8vh;
+  outline: 0;
+}
+
+.result {
+  text-align: center !important;
+  FONT-SIZE: 25px !important;
+  FONT-WEIGHT: unset !important;
+  FONT-FAMILY: 'Traditional Arabic' !important;
+  color: black !important;
+  background-color: white !important;
+  font-style: normal !important;
+}
+
+.resultshow {
+  text-align: center !important;
+  FONT-SIZE: 16px !important;
+  FONT-WEIGHT: unset !important;
+  FONT-FAMILY: 'Traditional Arabic' !important;
+  color: black !important;
+  background-color: white !important;
+  font-style: normal !important;
+}
+
+.resultLink {
+  FONT-SIZE: 16px !important;
+  FONT-WEIGHT: unset !important;
+  FONT-FAMILY: 'Traditional Arabic' !important;
+  color: blue !important;
+  background-color: white !important;
+  font-style: normal !important;
+}
+
+.notice {
+  color: gray;
+  FONT-FAMILY: 'Calibri' !important;
+}
+
+.searchedtext {
+  text-align: center;
+  color: green;
+  FONT-FAMILY: 'Sakkal Majalla' !important;
+}
+
+#englishchars {
+  display: none;
+  text-align: center !important;
+  color: red;
+  FONT-FAMILY: 'Sakkal Majalla' !important;
+}
