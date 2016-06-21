@@ -1,33 +1,24 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Precompiled Headers
-*.gch
-*.pch
+# Folder config file
+Desktop.ini
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Windows shortcuts
+*.lnk
 
-# Debug files
-*.dSYM/
-*.su
+
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
